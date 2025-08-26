@@ -17,7 +17,7 @@
 <!-- - **[API Dashboard](https://github.com/jesicag2/w8_project)** – Multi-card JavaScript dashboard with APIs (weather, currency, GitHub, jokes, etc.).  -->
 - **[E-Commerce Backend](https://github.com/jesicag2/w5_project)** – Flask + MySQL REST API supporting customer, product, and order management. Implemented SQLAlchemy ORM models, Marshmallow validation, and full CRUD endpoints.
 - **[TaskWave](https://github.com/jesicag2/w7_proj_task_mgmt_app)** – Task management app with CRUD features.  
-- **[PokéAPI Explorer](https://github.com/jesicag2/w5_project)** – Interactive front-end project using PokéAPI.  
+- **[PokéAPI Explorer](https://github.com/jesicag2/w8_project)** – Interactive front-end project using PokéAPI.  
 - **[Economics of Crime Dashboards](https://sites.psu.edu/jesicasportfolio/projects/)** – Tableau dashboards analyzing incarceration, gun violence, and more.  
 
 ---
